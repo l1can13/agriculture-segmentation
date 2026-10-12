@@ -1,0 +1,8 @@
+{
+  "epochs": 1,
+  "lr": 3e-05,
+  "weight_decay": 0.01,
+  "warmup_frac": 0.05,
+  "steps_per_epoch": null,
+  "batch_size": 16
+}

@@ -1,0 +1,12 @@
+# Окружение и кэши
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Настройки IDE
+.idea/
+
+# Веса моделей (сотни МБ)
+checkpoints/
+*.pt
+*.pth
