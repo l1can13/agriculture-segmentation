@@ -62,7 +62,7 @@ python -m venv .venv
 
 ## Google Colab
 
-<ссылка на ноутбук в Colab>
+[Открыть в Colab](https://colab.research.google.com/github/l1can13/agriculture-segmentation/blob/master/lr1_segmentation.ipynb)
 
 Первая ячейка ноутбука клонирует репозиторий и ставит библиотеки. В Colab ноутбук открывается с сохранёнными результатами; полное переобучение в бесплатном Colab нереалистично из-за объёма данных и времени обучения.
 
